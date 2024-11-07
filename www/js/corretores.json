@@ -229,5 +229,16 @@
         "likes": "99%",
         "descrição": "<p>Quem diria que o mundo dos feiticeiros jujutsu teria um professor tão... extravagante? Satoru Gojo, o sensei mais badalado da Escola Técnica Superior de Jujutsu de Tóquio, é a definição de 'cool' levada ao extremo. Com seus cabelos brancos alvíssimos, olhos azuis que hipnotizam e uma venda estilosa que esconde um poder absurdo, ele é o tipo de professor que você não quer irritar (a não ser que você queira ser teletransportado para outra dimensão).</p> <p>Não me julguem. Foi uma IA que fez esse texto!"
 
+    },
+    {
+        "id": 23,
+        "imagem": "img/gojo.png",
+        "nome": "Joacas Gojo",
+        "rating": "5.0",
+        "especialidade": "KitKat",
+        "rewies": "867",
+        "likes": "99%",
+        "descrição": "<p>Quem diria que o mundo dos feiticeiros jujutsu teria um professor tão... extravagante? Satoru Gojo, o sensei mais badalado da Escola Técnica Superior de Jujutsu de Tóquio, é a definição de 'cool' levada ao extremo. Com seus cabelos brancos alvíssimos, olhos azuis que hipnotizam e uma venda estilosa que esconde um poder absurdo, ele é o tipo de professor que você não quer irritar (a não ser que você queira ser teletransportado para outra dimensão).</p> <p>Não me julguem. Foi uma IA que fez esse texto!"
+
     }
 ]
